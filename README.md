@@ -1,5 +1,5 @@
 # Amazing.ca-Amazon-SwiftUI-Clone
-A simple challenge recreating amazon.ca UI in SwiftUI for educational purpose.<br/> feel free to play with it edit or do whatever you want(i'll appreciate credit tho' :).
+A simple challenge recreating amazon.ca UI (without a model, only UI) in SwiftUI for educational purpose.<br/> feel free to play with it edit or do whatever you want.
 
 
 
